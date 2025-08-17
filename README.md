@@ -1,6 +1,6 @@
 # ⌨️ Free-Text Keystroke Dynamics Authentication
 
-This project introduces a passwordless authentication system that verifies your identity based on your unique typing rhythm. Using an ESN-SVM hybrid model, it achieves 98.7% accuracy in recognizing users from free-form text, making your typing pattern your password.
+This project introduces a passwordless authentication system that verifies your identity based on your unique typing rhythm. Using an ESN-SVM hybrid model, it achieves 98.7% accuracy in recognizing users via free-text, making your typing pattern your password.
 
 ## Features
 
