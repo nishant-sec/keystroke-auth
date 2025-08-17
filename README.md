@@ -12,7 +12,8 @@ This project introduces a passwordless authentication system that verifies your 
 ## Demo
 
 ### 👤 User Enrollment
-![screenzy-1755468832813](https://github.com/user-attachments/assets/3d25c115-2bbe-4756-b28e-f6de1e38211c)
+![screenzy-1755468953556](https://github.com/user-attachments/assets/606a0834-4142-406e-8dea-ba4b9de55176)
+
 
 
 ## Visualizations
