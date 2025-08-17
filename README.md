@@ -18,6 +18,9 @@ This project introduces a passwordless authentication system that verifies your 
 
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/123ba4f9-a03b-4f47-b248-3bedea5f1634" />
 
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/d367b0d1-ad48-49dd-ba0a-b2e49547c790" />
+
+
 
 
 
