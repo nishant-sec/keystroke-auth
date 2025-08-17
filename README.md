@@ -17,6 +17,7 @@ This project introduces a passwordless authentication system that verifies your 
   - **High Accuracy**: Achieves a 98.7% success rate in distinguishing users.
   - **AI-Powered**: An Echo State Network (ESN) learns your typing rhythm, and a Support Vector Machine (SVM) makes the final verification decision.
   - **Free-Text Analysis**: Works with any text, from emails to documents, without requiring specific passphrases.
+  - **Secure Storage**: Biometric templates are encrypted and stored locally with cryptographic protection.
 
 ## Technical Visualizations
 - ESN-SVM Authentication Performance: ROC & DET Curves (99.83% AUC, 1.32% EER)
