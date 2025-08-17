@@ -1,6 +1,6 @@
 # ⌨️ Free-Text Keystroke Dynamics Authentication
 
-This project introduces a passwordless authentication system that verifies your identity based on your unique typing rhythm. Using an ESN-SVM hybrid model, it achieves 98.7% accuracy in recognizing users via free-text, making your typing pattern your password.
+This project introduces a passwordless authentication system that verifies your identity based on your unique typing rhythm. Using an ESN-SVM hybrid model, it achieves 98.7% accuracy in recognizing users via free-text, making your typing pattern your password. The hybrid model was trained on KeyRecs free-text dataset, which is a publically available dataset.
 
 ## Features
 
@@ -9,8 +9,11 @@ This project introduces a passwordless authentication system that verifies your 
   - **AI-Powered**: An Echo State Network (ESN) learns your typing rhythm, and a Support Vector Machine (SVM) makes the final verification decision.
   - **Free-Text Analysis**: Works with any text, from emails to documents, without requiring specific passphrases.
 
+ROC: "ESN-SVM Authentication ROC Curve (99.83% AUC)"
+DET: "Authentication DET Curve (1.32% EER)"
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5e188b4a-8e38-4668-a329-6f68ef308556" />
 
+PCA: "User Template Distribution in PCA Space"
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/622204c3-1787-4dda-9a36-4e71ffe68771" />
 
 
