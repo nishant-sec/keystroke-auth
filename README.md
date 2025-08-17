@@ -28,7 +28,7 @@ This project introduces a passwordless authentication system that verifies your 
     ```
 3.  Run the application:
     ```bash
-    python app.py
+    python ./src/app.py
     ```
 
 ## How It Works?
