@@ -22,7 +22,7 @@ This project introduces a passwordless authentication system that verifies your 
 
 
 
-## Visualizations
+## Technical Visualizations
 - "ESN-SVM Authentication Performance: ROC & DET Curves (99.83% AUC, 1.32% EER)"
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b0fbaef2-b99e-4978-98d7-8bacc572a88f" />
 
