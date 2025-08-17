@@ -9,6 +9,9 @@ This project introduces a passwordless authentication system that verifies your 
   - **AI-Powered**: An Echo State Network (ESN) learns your typing rhythm, and a Support Vector Machine (SVM) makes the final verification decision.
   - **Free-Text Analysis**: Works with any text, from emails to documents, without requiring specific passphrases.
 
+<img width="1294" height="559" alt="image" src="https://github.com/user-attachments/assets/5e188b4a-8e38-4668-a329-6f68ef308556" />
+
+
 ## Getting Started
 
 ### Prerequisites
