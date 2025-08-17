@@ -15,7 +15,7 @@ This project introduces a passwordless authentication system that verifies your 
 
 
 - PCA Plots Shows User Template Distribution in PCA Space"
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/622204c3-1787-4dda-9a36-4e71ffe68771" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/622204c3-1787-4dda-9a36-4e71ffe68771" />
 
 
 
