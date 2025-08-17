@@ -31,7 +31,7 @@ This project introduces a passwordless authentication system that verifies your 
     python app.py
     ```
 
-## How It Works
+## How It Works?
 
 The system captures subtle patterns in your typing, such as keystroke latency, hold times, and the rhythm of your pauses and bursts.
 
