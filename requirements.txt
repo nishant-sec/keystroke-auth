@@ -1,0 +1,7 @@
+cryptography
+keyring
+numpy
+pandas
+scikit-learn
+PyQt6
+matplotlib
