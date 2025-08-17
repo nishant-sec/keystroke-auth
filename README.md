@@ -31,8 +31,6 @@ This project introduces a passwordless authentication system that verifies your 
     python app.py
     ```
 
------
-
 ## How It Works
 
 The system captures subtle patterns in your typing, such as keystroke latency, hold times, and the rhythm of your pauses and bursts.
@@ -42,7 +40,6 @@ The system captures subtle patterns in your typing, such as keystroke latency, h
 
 This method is secure against shoulder-surfing and eliminates the need to remember complex passwords.
 
------
 
 ## Use Cases
 
@@ -52,7 +49,6 @@ This technology is ideal for:
   - **Enhanced Security**: Add a seamless second layer of security for accessing sensitive documents or applications.
   - **Behavioral Biometrics Research**: A practical tool for exploring AI-driven security and user identification.
 
------
 
 ## Contributing
 
