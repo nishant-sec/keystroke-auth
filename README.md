@@ -12,11 +12,11 @@ This project introduces a passwordless authentication system that verifies your 
 ## Demo
 
 ### 👤 User Enrollment
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/123ba4f9-a03b-4f47-b248-3bedea5f1634" />
+
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/606a0834-4142-406e-8dea-ba4b9de55176" />
 
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/3e547acf-fa87-4a49-a851-c7a61379b64a" />
-
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/123ba4f9-a03b-4f47-b248-3bedea5f1634" />
 
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/d367b0d1-ad48-49dd-ba0a-b2e49547c790" />
 
