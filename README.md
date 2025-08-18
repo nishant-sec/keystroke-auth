@@ -1,4 +1,4 @@
-# ⌨️ Free-Text Keystroke Authentication using Echo State Network and Support Vector Machine Hybrid Model
+# ⌨ Free-Text Keystroke Authentication Using a Hybrid Echo State Network and Support Vector Machine Model
 
 This project introduces a passwordless authentication system that verifies your identity based on your unique typing rhythm. Using an ESN-SVM hybrid model, it achieves 98.7% accuracy in recognizing users via free-text, making your typing pattern your password. The hybrid model was trained on KeyRecs free-text dataset, which is a publically available dataset.
 
