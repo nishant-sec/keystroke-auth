@@ -38,7 +38,7 @@ This project introduces a passwordless authentication system that verifies your 
 
 1.  Clone the repository:
     ```bash
-    git clone git@github.com:nishant-sec/keystroke-auth.git
+    git clone https://github.com/nishant-sec/keystroke-auth.git
     cd keystroke-auth
     ```
 2.  Install the required dependencies:
